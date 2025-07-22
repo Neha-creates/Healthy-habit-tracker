@@ -15,7 +15,6 @@
 ## 🌐 Deployed App
 
 - **Frontend**: [https://deployed-site.whatever](https://fastidious-haupia-5c476e.netlify.app/)
-- **Database**: [Firebase Realtime Database](https://console.firebase.google.com/u/0/project/health-tracker-f33d6/database/health-tracker-f33d6-default-rtdb/data)
 
 ---
 
